@@ -24,3 +24,12 @@ can be previewed.
 
 Selected images are processed locally
 when the application uses browser-based preview.
+## Manual Testing Checklist
+
+- [ ] Select a supported image and inspect its preview.
+- [ ] Compare the displayed file size and image dimensions.
+- [ ] Clear the image and confirm the preview disappears.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
